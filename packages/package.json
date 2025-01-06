@@ -1,0 +1,14 @@
+{
+    "name": "langchain_langgraph_agents",
+    "version": "1.0.0",
+    "private": true,
+    "workspaces": [
+        "api"
+    ],
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {},
+    "devDependencies": {}
+}
